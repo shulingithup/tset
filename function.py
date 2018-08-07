@@ -6,3 +6,4 @@ def fn():
         print('')
 
 fn()
+a = 10
